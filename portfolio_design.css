@@ -1,0 +1,35 @@
+body {
+    background-color: black; 
+    color: #f6f6f6;
+}
+strong {
+    color: #56FFF9;
+}
+strong1 {
+    color: #41EAF8;
+}
+.apresentacao_links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px
+}
+Links_subtitulo{
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+Links_subtitulo_links{
+    border: 20px solid white;
+    background-color: #41EAF8;
+    width: 280px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif
+}
